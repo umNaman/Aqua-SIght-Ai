@@ -1,11 +1,12 @@
 🌊 Aqua Sight 
 AI Live Demo: https://aqua-sight-ai.streamlit.app/
 
-Aqua Sight AI is a Python-based computer vision application powered by Artificial Intelligence. Built on the Streamlit framework, this project provides a robust and interactive web interface for real-time image processing and analysis.
+Aqua Sight AI is a Python-based computer vision application powered by Artificial Intelligence. Built on the Streamlit framework, this project provides a interactive web interface for real-time analysis.
 
 Interactive User Interface: Features user-friendly controls and visualizations powered by Streamlit.
 
-🛠️ Tech Stack Language: Python
+🛠️ Tech 
+Stack Language: Python
 Framework: Streamlit
 Deployment: Streamlit Community Cloud
 
