@@ -1,0 +1,6 @@
+Libraries Needed :-
+
+streamlit
+pandas
+numpy
+scikit-learn
