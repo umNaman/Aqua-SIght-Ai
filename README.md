@@ -16,4 +16,4 @@ Clone the repository
 Install Dependencies : Navigate to the project directory and install the required packages:pip install -r requirements.txt
 Run the Application : Launch the Streamlit app : streamlit run app2.py
 
-🤝 ContributionContributions are welcome! If you would like to add a feature or fix a bug, please feel free to open a Pull Request.Made with ❤️ using Python
+🤝 Contributions are welcome! If you would like to add a feature or fix a bug, please feel free to open a Pull Request.Made with ❤️ using Python
